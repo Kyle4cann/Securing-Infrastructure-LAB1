@@ -1,7 +1,7 @@
 # Securing-Infrastructure-LAB1
 ### NAME: VINCENT CANN.
 ### STUDENT ID: 4381913
-### COURSE: CYBS 1007 SECURING INFRASTRUCTURE. LAB 1
+### COURSE: CYBS 1007 SECURING INFRASTRUCTURE.
 
 ## INSTRUCTIONS
 ## Use your favourite AI tool, YouTube, WWW site or Instruction Manual to complete the parts in this lab.
